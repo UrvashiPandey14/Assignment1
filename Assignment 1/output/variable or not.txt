@@ -1,0 +1,11 @@
+How many of these can be a variable name?
+
+01PWskills  (It is not a variable name because variable name can not be started from any number)
+
+ _FLOAT     (It is a variable name because it is starting from underscore)
+
+ int        (It is a keyword so can not use as a variable)
+
+ FLOAT      (As FLOAT is not keyword so it can be use as variable)
+
+ You will succeed  ( No space can be used in variable)
